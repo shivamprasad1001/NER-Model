@@ -1,0 +1,883 @@
+{"text": "Turn off the fan in the bedroom", "labels": [[13, 16, "device"], [24, 31, "location"]]}
+{"text": "Switch on the light in the kitchen", "labels": [[16, 21, "device"], [29, 36, "location"]]}
+{"text": "Set brightness to 80%", "labels": [[19, 22, "brightness_level"]]}
+{"text": "Lower brightness to 30 percent", "labels": [[20, 32, "brightness_level"]]}
+{"text": "Change your name to Jarvis", "labels": [[23, 29, "name"]]}
+{"text": "Call yourself Ava from now on", "labels": [[14, 17, "name"]]}
+{"text": "Open WhatsApp on the phone", "labels": [[5, 13, "app_name"]]}
+{"text": "Launch YouTube on my Android", "labels": [[7, 14, "app_name"]]}
+{"text": "Switch your voice to female", "labels": [[25, 31, "voice_type"]]}
+{"text": "Make your voice sound male", "labels": [[26, 30, "voice_type"]]}
+{"text": "Dim the lights in the living room", "labels": [[12, 18, "device"], [26, 37, "location"]]}
+{"text": "Start Instagram on phone", "labels": [[6, 15, "app_name"]]}
+{"text": "Reboot the phone using ADB", "labels": [[11, 16, "device"]]}
+{"text": "Set the AC in the bedroom to 24", "labels": [[8, 10, "device"], [18, 25, "location"]]}
+{"text": "Activate the lamp in hallway", "labels": [[13, 17, "device"], [21, 28, "location"]]}
+{"text": "Set brightness to full", "labels": [[19, 23, "brightness_level"]]}
+{"text": "Make brightness low", "labels": [[16, 19, "brightness_level"]]}
+{"text": "Can you brighten up the kitchen lights?", "labels": [[26, 32, "location"], [33, 39, "device"]]}
+{"text": "Open the camera app", "labels": [[9, 15, "app_name"]]}
+{"text": "Please launch Telegram now", "labels": [[15, 23, "app_name"]]}
+{"text": "I want your name to be Luna", "labels": [[26, 30, "name"]]}
+{"text": "Set your voice to robotic male", "labels": [[24, 37, "voice_type"]]}
+{"text": "Play some jazz music", "labels": [[10, 14, "genre"]]}
+{"text": "I want to listen to Queen", "labels": [[20, 25, "artist"]]}
+{"text": "Put on some chillhop", "labels": [[12, 20, "genre"]]}
+{"text": "Can you play something by Daft Punk?", "labels": [[26, 35, "artist"]]}
+{"text": "I'm in the mood for upbeat pop", "labels": [[20, 26, "mood"], [27, 30, "genre"]]}
+{"text": "Play relaxing piano music", "labels": [[5, 13, "mood"], [14, 19, "genre"]]}
+{"text": "I feel like some 80s rock", "labels": [[17, 25, "genre"]]}
+{"text": "Queue up the latest from The Weeknd", "labels": [[26, 36, "artist"]]}
+{"text": "Some classical music, please.", "labels": [[5, 14, "genre"]]}
+{"text": "Need some energetic workout music", "labels": [[10, 19, "mood"], [20, 27, "genre"]]}
+{"text": "Play a track by Florence + The Machine", "labels": [[16, 39, "artist"]]}
+{"text": "Let's hear some blues", "labels": [[17, 22, "genre"]]}
+{"text": "I'd like to hear something calm", "labels": [[28, 32, "mood"]]}
+{"text": "Start a radio station based on Radiohead", "labels": [[31, 40, "artist"]]}
+{"text": "Play that new song from Olivia Rodrigo", "labels": [[24, 38, "artist"]]}
+{"text": "Got any sad indie music?", "labels": [[8, 11, "mood"], [12, 17, "genre"]]}
+{"text": "I want to hear some folk music.", "labels": [[19, 23, "genre"]]}
+{"text": "Could you find me some study music?", "labels": [[23, 28, "mood"]]}
+{"text": "Play music by AC/DC", "labels": [[14, 19, "artist"]]}
+{"text": "Let's get some party vibes going", "labels": [[15, 20, "mood"]]}
+{"text": "Spin some funk", "labels": [[10, 14, "genre"]]}
+{"text": "I need some focus music to concentrate.", "labels": [[10, 15, "mood"]]}
+{"text": "Play some old school hip-hop", "labels": [[20, 27, "genre"]]}
+{"text": "Anything by Led Zeppelin would be great.", "labels": [[12, 24, "artist"]]}
+{"text": "I'm looking for some happy tunes", "labels": [[22, 27, "mood"]]}
+{"text": "Throw on some reggae", "labels": [[14, 20, "genre"]]}
+{"text": "Play some music suitable for a rainy day", "labels": [[30, 39, "mood"]]}
+{"text": "I want to listen to something epic", "labels": [[30, 34, "mood"]]}
+{"text": "Let's listen to some R&B.", "labels": [[22, 25, "genre"]]}
+{"text": "Could you play a song from Hans Zimmer?", "labels": [[28, 39, "artist"]]}
+{"text": "Set volume to 80.", "labels": [[14, 16, "level"]]}
+{"text": "Increase volume by 10 percent.", "labels": [[18, 28, "level"]]}
+{"text": "Set the volume to max.", "labels": [[18, 21, "level"]]}
+{"text": "Please increase the volume to 75%.", "labels": [[30, 33, "level"]]}
+{"text": "Volume to 90.", "labels": [[11, 13, "level"]]}
+{"text": "Set volume to one hundred.", "labels": [[14, 25, "level"]]}
+{"text": "Max volume.", "labels": [[0, 3, "level"]]}
+{"text": "Set volume to 20.", "labels": [[14, 16, "level"]]}
+{"text": "Decrease volume by 15.", "labels": [[18, 20, "level"]]}
+{"text": "Please decrease the volume to 30%.", "labels": [[30, 33, "level"]]}
+{"text": "Volume to 10 percent.", "labels": [[11, 21, "level"]]}
+{"text": "Set volume to fifty.", "labels": [[14, 19, "level"]]}
+{"text": "I want a new wallpaper of a cityscape at night.", "labels": [[28, 45, "subject"]]}
+{"text": "Change the desktop background to something abstract and blue.", "labels": [[42, 50, "theme"], [55, 59, "color"]]}
+{"text": "Find a space themed wallpaper for me.", "labels": [[7, 12, "subject"]]}
+{"text": "I'd like a minimalist background.", "labels": [[13, 23, "theme"]]}
+{"text": "Set the wallpaper to a picture of a forest.", "labels": [[37, 43, "subject"]]}
+{"text": "Update my background to something purple.", "labels": [[35, 41, "color"]]}
+{"text": "Can you find a serene beach wallpaper?", "labels": [[18, 30, "subject"]]}
+{"text": "I want a dark wallpaper.", "labels": [[9, 13, "color"]]}
+{"text": "Put up a wallpaper with cars.", "labels": [[26, 30, "subject"]]}
+{"text": "I'm looking for a geometric pattern for my background.", "labels": [[19, 36, "theme"]]}
+{"text": "Change the wallpaper to a solid black color.", "labels": [[30, 42, "color"]]}
+{"text": "Let's get a new wallpaper, maybe some mountains.", "labels": [[38, 47, "subject"]]}
+{"text": "I need a vibrant wallpaper to brighten up my screen.", "labels": [[9, 16, "theme"]]}
+{"text": "Set a photo of my cat as the wallpaper.", "labels": [[16, 26, "subject"]]}
+{"text": "Use a gradient wallpaper.", "labels": [[6, 14, "theme"]]}
+{"text": "Change it to a red background.", "labels": [[15, 18, "color"]]}
+{"text": "I would like an ocean themed background.", "labels": [[16, 21, "subject"]]}
+{"text": "Can my wallpaper be a picture of the northern lights?", "labels": [[32, 48, "subject"]]}
+{"text": "New wallpaper: nature.", "labels": [[15, 21, "subject"]]}
+{"text": "I want a more professional wallpaper.", "labels": [[12, 25, "theme"]]}
+{"text": "Set a wallpaper featuring puppies.", "labels": [[25, 32, "subject"]]}
+{"text": "Change the background to a light gray.", "labels": [[27, 37, "color"]]}
+{"text": "I'd prefer a sci-fi wallpaper.", "labels": [[13, 19, "subject"]]}
+{"text": "Let's switch to a seasonal wallpaper for autumn.", "labels": [[31, 49, "subject"]]}
+{"text": "Give me a retro-style wallpaper.", "labels": [[10, 21, "theme"]]}
+{"text": "My new wallpaper should be a calming zen garden.", "labels": [[31, 48, "subject"]]}
+{"text": "Update the wallpaper to something green.", "labels": [[32, 37, "color"]]}
+{"text": "Can you set a tech-focused wallpaper?", "labels": [[16, 27, "theme"]]}
+{"text": "Set the system theme to dark mode.", "labels": [[24, 33, "theme"]]}
+{"text": "Switch to light theme.", "labels": [[11, 22, "theme"]]}
+{"text": "I'd like a blue accent color.", "labels": [[13, 17, "color"]]}
+{"text": "Enable dark mode.", "labels": [[7, 16, "theme"]]}
+{"text": "I prefer a lighter appearance.", "labels": [[11, 18, "theme"]]}
+{"text": "Set my theme to high contrast.", "labels": [[16, 29, "theme"]]}
+{"text": "Can you change the accent color to red?", "labels": [[34, 37, "color"]]}
+{"text": "Let's go with a gray theme.", "labels": [[16, 20, "color"]]}
+{"text": "Apply the solarized light theme.", "labels": [[10, 30, "theme"]]}
+{"text": "I want to use the default theme.", "labels": [[19, 32, "theme"]]}
+{"text": "Change the application theme to something colorful.", "labels": [[34, 43, "theme"]]}
+{"text": "Use a sepia tone for the theme.", "labels": [[6, 16, "theme"]]}
+{"text": "Is there a night mode theme?", "labels": [[11, 21, "theme"]]}
+{"text": "Set the window color to green.", "labels": [[24, 29, "color"]]}
+{"text": "Activate the dark theme.", "labels": [[13, 23, "theme"]]}
+{"text": "I'd like to try the Dracula theme.", "labels": [[22, 35, "theme"]]}
+{"text": "Change my system's accent to purple.", "labels": [[31, 37, "color"]]}
+{"text": "Could you switch to a minimal theme?", "labels": [[21, 34, "theme"]]}
+{"text": "Revert to the system's standard theme.", "labels": [[26, 41, "theme"]]}
+{"text": "I want a professional theme.", "labels": [[9, 22, "theme"]]}
+{"text": "Let's use a theme with orange highlights.", "labels": [[24, 30, "color"]]}
+{"text": "Change my color scheme to monochrome.", "labels": [[25, 35, "theme"]]}
+{"text": "I'm tired of the light theme, switch it.", "labels": [[16, 27, "theme"]]}
+{"text": "Apply a pink color to the UI.", "labels": [[8, 12, "color"]]}
+{"text": "I need the high visibility theme.", "labels": [[11, 30, "theme"]]}
+{"text": "Use the oceanic theme.", "labels": [[8, 22, "theme"]]}
+{"text": "Change the primary color to gold.", "labels": [[26, 30, "color"]]}
+{"text": "Change my status to 'Away'.", "labels": [[10, 16, "field"], [20, 26, "value"]]}
+{"text": "Set my location to San Francisco.", "labels": [[8, 16, "field"], [20, 33, "value"]]}
+{"text": "Update my bio to 'Software Engineer'.", "labels": [[10, 13, "field"], [17, 35, "value"]]}
+{"text": "Add my job title as Project Manager.", "labels": [[7, 17, "field"], [21, 36, "value"]]}
+{"text": "Please change my display name to 'JD'.", "labels": [[18, 30, "field"], [34, 38, "value"]]}
+{"text": "Set my current mood to happy.", "labels": [[8, 20, "field"], [24, 29, "value"]]}
+{"text": "Update my contact number to 555-1234.", "labels": [[10, 24, "field"], [28, 37, "value"]]}
+{"text": "I want to change my profile picture.", "labels": [[19, 34, "field"]]}
+{"text": "Change the username for my account to 'new_user_123'.", "labels": [[11, 19, "field"], [36, 51, "value"]]}
+{"text": "Update my personal website in my profile.", "labels": [[10, 26, "field"]]}
+{"text": "Set my pronouns to they/them.", "labels": [[8, 16, "field"], [20, 29, "value"]]}
+{"text": "Change my profile's privacy setting to private.", "labels": [[23, 39, "field"], [43, 50, "value"]]}
+{"text": "Update my email address to test@example.com.", "labels": [[10, 23, "field"], [27, 44, "value"]]}
+{"text": "Set my homepage URL to my blog.", "labels": [[8, 21, "field"], [25, 32, "value"]]}
+{"text": "I need to update my shipping address.", "labels": [[19, 36, "field"]]}
+{"text": "Change my account's theme to dark.", "labels": [[23, 28, "field"], [32, 36, "value"]]}
+{"text": "Set my date of birth to January 1, 1990.", "labels": [[8, 21, "field"], [25, 43, "value"]]}
+{"text": "Update my professional headline.", "labels": [[10, 32, "field"]]}
+{"text": "Change my relationship status to Single.", "labels": [[10, 29, "field"], [33, 39, "value"]]}
+{"text": "Set my language to English (UK).", "labels": [[8, 16, "field"], [20, 33, "value"]]}
+{"text": "Update my interests to include hiking and chess.", "labels": [[10, 19, "field"], [23, 46, "value"]]}
+{"text": "Change my profile tagline.", "labels": [[10, 25, "field"]]}
+{"text": "Set my notification preferences to 'Email only'.", "labels": [[8, 32, "field"], [36, 48, "value"]]}
+{"text": "Update my occupation to 'Designer'.", "labels": [[10, 20, "field"], [24, 34, "value"]]}
+{"text": "Change my timezone to PST.", "labels": [[10, 18, "field"], [22, 25, "value"]]}
+{"text": "Set my profile visibility to 'Contacts only'.", "labels": [[8, 26, "field"], [30, 45, "value"]]}
+{"text": "Update my display name.", "labels": [[10, 22, "field"]]}
+{"text": "Change my hometown to Boston.", "labels": [[10, 18, "field"], [22, 28, "value"]]}
+{"text": "Set my profile anthem.", "labels": [[8, 22, "field"]]}
+{"text": "Remember that my name is Alex.", "labels": [[15, 22, "field"], [26, 30, "value"]]}
+{"text": "My wife's birthday is on June 10th.", "labels": [[3, 20, "field"], [27, 36, "value"]]}
+{"text": "Store my anniversary as October 26.", "labels": [[9, 20, "field"], [24, 36, "value"]]}
+{"text": "My favorite food is pizza.", "labels": [[3, 17, "field"], [21, 26, "value"]]}
+{"text": "Please remember that my dog's name is Buddy.", "labels": [[24, 35, "field"], [39, 44, "value"]]}
+{"text": "My car's license plate is XYZ-123.", "labels": [[3, 24, "field"], [28, 36, "value"]]}
+{"text": "Save this number as my emergency contact: 911-555-0199.", "labels": [[22, 40, "field"], [42, 54, "value"]]}
+{"text": "My son's name is Leo.", "labels": [[3, 15, "field"], [19, 22, "value"]]}
+{"text": "Remember my coffee order: large latte with oat milk.", "labels": [[12, 25, "field"], [27, 54, "value"]]}
+{"text": "My PIN is 4321, please remember it.", "labels": [[3, 9, "field"], [13, 17, "value"]]}
+{"text": "My mother's maiden name is Smith.", "labels": [[3, 26, "field"], [30, 35, "value"]]}
+{"text": "Please store my library card number as 98765.", "labels": [[15, 34, "field"], [38, 43, "value"]]}
+{"text": "My shoe size is 9.5.", "labels": [[3, 13, "field"], [17, 20, "value"]]}
+{"text": "Remember that my lucky number is 7.", "labels": [[18, 31, "field"], [35, 36, "value"]]}
+{"text": "My cat's birthday is May 5th.", "labels": [[3, 18, "field"], [22, 29, "value"]]}
+{"text": "Store my frequent flyer number as AA12345.", "labels": [[9, 31, "field"], [35, 42, "value"]]}
+{"text": "Remember my allergy to peanuts.", "labels": [[12, 27, "field"]]}
+{"text": "My favorite movie is The Matrix.", "labels": [[3, 17, "field"], [21, 31, "value"]]}
+{"text": "Save '123 Main St' as my home address.", "labels": [[25, 37, "field"], [5, 17, "value"]]}
+{"text": "My passport number is A1B2C3D4.", "labels": [[3, 20, "field"], [24, 32, "value"]]}
+{"text": "Remember that I'm a vegetarian.", "labels": [[18, 30, "field"]]}
+{"text": "My partner's name is Sam.", "labels": [[3, 17, "field"], [21, 24, "value"]]}
+{"text": "Store this as my work address: 456 Office Park.", "labels": [[16, 28, "field"], [30, 46, "value"]]}
+{"text": "My blood type is O negative.", "labels": [[3, 14, "field"], [18, 28, "value"]]}
+{"text": "Please remember that I prefer window seats.", "labels": [[24, 43, "field"]]}
+{"text": "My WiFi password is 'p@ssword123'.", "labels": [[3, 17, "field"], [21, 33, "value"]]}
+{"text": "My daughter's name is Chloe.", "labels": [[3, 20, "field"], [24, 29, "value"]]}
+{"text": "Remember I work from home on Fridays.", "labels": [[9, 38, "field"]]}
+{"text": "My new phone number is 555-9876.", "labels": [[3, 21, "field"], [25, 34, "value"]]}
+{"text": "My usual pizza topping is pepperoni.", "labels": [[3, 23, "field"], [27, 36, "value"]]}
+{"text": "Set a reminder to call John tomorrow at 7pm.", "labels": [[18, 28, "task"], [29, 37, "date"], [41, 44, "time"]]}
+{"text": "Remind me to 'Submit my timesheet' on Friday.", "labels": [[12, 33, "task"], [38, 44, "date"]]}
+{"text": "At 9 AM, remind me to join the daily stand-up.", "labels": [[3, 7, "time"], [19, 44, "task"]]}
+{"text": "Set a reminder for the 'dentist appointment' next Tuesday at 3:15 PM.", "labels": [[22, 42, "task"], [43, 55, "date"], [59, 66, "time"]]}
+{"text": "Remind me to take out the trash in one hour.", "labels": [[12, 31, "task"], [32, 42, "time"]]}
+{"text": "Don't let me forget to pick up milk on my way home.", "labels": [[24, 37, "task"], [38, 51, "time"]]}
+{"text": "Set a weekly reminder to water the plants every Sunday.", "labels": [[25, 41, "task"], [42, 54, "date"]]}
+{"text": "Remind me about the 'Project Deadline' on August 15th.", "labels": [[18, 36, "task"], [41, 52, "date"]]}
+{"text": "Can you remind me at 10:00 to check my email?", "labels": [[21, 26, "time"], [30, 46, "task"]]}
+{"text": "I need a reminder to 'Renew my passport' in three months.", "labels": [[20, 39, "task"], [40, 54, "date"]]}
+{"text": "Remind me to wish Sarah a happy birthday today.", "labels": [[12, 42, "task"], [43, 48, "date"]]}
+{"text": "Please set a reminder for 'Team Lunch' at noon.", "labels": [[28, 40, "task"], [44, 48, "time"]]}
+{"text": "Remind me at 6:30 PM to start cooking dinner.", "labels": [[12, 20, "time"], [24, 45, "task"]]}
+{"text": "Set an alarm for 'Wake up' at 6am tomorrow morning.", "labels": [[17, 25, "task"], [29, 32, "time"], [33, 49, "date"]]}
+{"text": "Can you set a reminder to pay the rent on the 1st of every month?", "labels": [[28, 40, "task"], [44, 66, "date"]]}
+{"text": "Remind me to meditate for 10 minutes tonight.", "labels": [[12, 38, "task"], [39, 45, "date"]]}
+{"text": "Set a reminder to 'Charge my laptop' before I leave.", "labels": [[18, 37, "task"], [38, 51, "time"]]}
+{"text": "On Monday, remind me to confirm the meeting.", "labels": [[3, 9, "date"], [21, 41, "task"]]}
+{"text": "Remind me to call the pharmacy in 20 minutes.", "labels": [[12, 31, "task"], [32, 44, "time"]]}
+{"text": "Set a reminder for the 'concert' this weekend.", "labels": [[22, 31, "task"], [32, 44, "date"]]}
+{"text": "At 5pm, ping me to 'wrap up work'.", "labels": [[3, 6, "time"], [16, 30, "task"]]}
+{"text": "Remind me to 'buy groceries' after work.", "labels": [[12, 27, "task"], [28, 38, "time"]]}
+{"text": "I need to remember to 'send the invoice' by EOD.", "labels": [[23, 40, "task"], [44, 47, "date"]]}
+{"text": "Set a reminder for 'Doctor's appointment' at 11 AM on the 23rd.", "labels": [[22, 44, "task"], [48, 53, "time"], [57, 65, "date"]]}
+{"text": "Remind me to 'walk the dog' when I get home.", "labels": [[12, 25, "task"], [26, 39, "time"]]}
+{"text": "Can you remind me to return library books on Saturday?", "labels": [[21, 41, "task"], [45, 53, "date"]]}
+{"text": "Set a reminder for 'parent-teacher conference' at 4:30 pm.", "labels": [[22, 50, "task"], [54, 61, "time"]]}
+{"text": "Remind me to 'back up my files' every Friday evening.", "labels": [[12, 28, "task"], [29, 48, "date"]]}
+{"text": "At noon tomorrow, remind me to eat lunch.", "labels": [[3, 18, "date"], [30, 41, "task"]]}
+{"text": "Change my name to John.", "labels": [[18, 22, "name"]]}
+{"text": "From now on, call me The Captain.", "labels": [[24, 35, "name"]]}
+{"text": "Please refer to me as Dr. Smith.", "labels": [[24, 33, "name"]]}
+{"text": "My new name is Phoenix.", "labels": [[15, 22, "name"]]}
+{"text": "I want to be called Jessica.", "labels": [[20, 27, "name"]]}
+{"text": "You can call me Alex from now on.", "labels": [[16, 20, "name"]]}
+{"text": "Set my name as 'Big Boss'.", "labels": [[16, 26, "name"]]}
+{"text": "My name isn't User, it's Sarah.", "labels": [[28, 33, "name"]]}
+{"text": "Could you update my name to Michael?", "labels": [[28, 35, "name"]]}
+{"text": "I am no longer David, I am Goliath.", "labels": [[30, 37, "name"]]}
+{"text": "Just call me Sam.", "labels": [[13, 16, "name"]]}
+{"text": "My preferred name is Jordan.", "labels": [[21, 27, "name"]]}
+{"text": "I'd rather you call me by my last name, Jones.", "labels": [[43, 48, "name"]]}
+{"text": "Let's change my name to 'Raptor'.", "labels": [[24, 32, "name"]]}
+{"text": "For the record, my name is Emily.", "labels": [[27, 32, "name"]]}
+{"text": "My nickname is 'Ace'. Please use that.", "labels": [[15, 20, "name"]]}
+{"text": "Update my name. It's Chris.", "labels": [[22, 27, "name"]]}
+{"text": "I go by 'Neo' now.", "labels": [[9, 14, "name"]]}
+{"text": "Please set my name to Maria.", "labels": [[22, 27, "name"]]}
+{"text": "The name's Bond. James Bond.", "labels": [[12, 23, "name"]]}
+{"text": "I want you to call me Elizabeth.", "labels": [[23, 32, "name"]]}
+{"text": "My new designation is Unit 734.", "labels": [[24, 33, "name"]]}
+{"text": "Can you call me Professor?", "labels": [[16, 25, "name"]]}
+{"text": "Let's try a new name. How about 'Sparky'?", "labels": [[34, 41, "name"]]}
+{"text": "I would like to be addressed as 'Your Highness'.", "labels": [[32, 46, "name"]]}
+{"text": "My handle is 'Ghost'.", "labels": [[14, 21, "name"]]}
+{"text": "Change your voice to male.", "labels": [[21, 25, "voice_type"]]}
+{"text": "Switch to a female voice.", "labels": [[13, 19, "voice_type"]]}
+{"text": "Can you use a British accent?", "labels": [[16, 30, "voice_type"]]}
+{"text": "Set your voice to something robotic.", "labels": [[21, 28, "voice_type"]]}
+{"text": "I prefer a deeper voice.", "labels": [[11, 17, "voice_type"]]}
+{"text": "Change to a higher pitched voice.", "labels": [[12, 28, "voice_type"]]}
+{"text": "Let's try an Australian accent.", "labels": [[13, 30, "voice_type"]]}
+{"text": "I want your voice to be more cheerful.", "labels": [[28, 36, "voice_type"]]}
+{"text": "Can you sound more professional?", "labels": [[16, 29, "voice_type"]]}
+{"text": "Change your speaking style to be more formal.", "labels": [[32, 38, "voice_type"]]}
+{"text": "Switch to voice option 2.", "labels": [[11, 26, "voice_type"]]}
+{"text": "Use a calming voice.", "labels": [[6, 13, "voice_type"]]}
+{"text": "Set your vocal profile to 'Butler'.", "labels": [[27, 35, "voice_type"]]}
+{"text": "I'd like to hear a different vocal preset.", "labels": [[25, 40, "voice_type"]]}
+{"text": "Let's use a standard American accent.", "labels": [[13, 36, "voice_type"]]}
+{"text": "Is there a gender-neutral voice available?", "labels": [[11, 29, "voice_type"]]}
+{"text": "Change your voice to the one named 'Echo'.", "labels": [[33, 39, "voice_type"]]}
+{"text": "I want a celebrity voice.", "labels": [[9, 25, "voice_type"]]}
+{"text": "Can you speak with a southern drawl?", "labels": [[21, 36, "voice_type"]]}
+{"text": "Let's try the friendly voice.", "labels": [[13, 21, "voice_type"]]}
+{"text": "Change your voice to sound older.", "labels": [[26, 31, "voice_type"]]}
+{"text": "Use the default voice.", "labels": [[8, 21, "voice_type"]]}
+{"text": "I would prefer a softer speaking voice.", "labels": [[18, 36, "voice_type"]]}
+{"text": "Turn on dark mode.", "labels": [[8, 17, "setting"], [5, 7, "value"]]}
+{"text": "Set automatic updates to off.", "labels": [[4, 21, "setting"], [25, 28, "value"]]}
+{"text": "Change notification sounds to silent.", "labels": [[7, 26, "setting"], [30, 36, "value"]]}
+{"text": "Enable do not disturb.", "labels": [[7, 22, "setting"]]}
+{"text": "Set screen timeout to 5 minutes.", "labels": [[4, 19, "setting"], [23, 32, "value"]]}
+{"text": "Turn off location services.", "labels": [[9, 26, "setting"], [5, 8, "value"]]}
+{"text": "I want to change the default browser.", "labels": [[22, 37, "setting"]]}
+{"text": "Set power saving mode to enabled.", "labels": [[4, 22, "setting"], [26, 33, "value"]]}
+{"text": "Disable background app refresh.", "labels": [[8, 30, "setting"]]}
+{"text": "Change the system language to French.", "labels": [[11, 27, "setting"], [31, 37, "value"]]}
+{"text": "Set font size to large.", "labels": [[4, 13, "setting"], [17, 22, "value"]]}
+{"text": "Turn on bluetooth.", "labels": [[8, 17, "setting"], [5, 7, "value"]]}
+{"text": "I need to adjust my privacy settings.", "labels": [[22, 38, "setting"]]}
+{"text": "Set haptic feedback to high.", "labels": [[4, 20, "setting"], [24, 28, "value"]]}
+{"text": "Turn off automatic brightness.", "labels": [[9, 28, "setting"], [5, 8, "value"]]}
+{"text": "Change my keyboard layout to Dvorak.", "labels": [[11, 27, "setting"], [31, 37, "value"]]}
+{"text": "Enable airplane mode.", "labels": [[7, 21, "setting"]]}
+{"text": "Set display scaling to 125%.", "labels": [[4, 20, "setting"], [24, 28, "value"]]}
+{"text": "Turn on night light.", "labels": [[8, 19, "setting"], [5, 7, "value"]]}
+{"text": "I want to configure my sound output device.", "labels": [[26, 46, "setting"]]}
+{"text": "Set app permissions for the camera.", "labels": [[4, 19, "setting"]]}
+{"text": "Disable telemetry and data collection.", "labels": [[8, 38, "setting"]]}
+{"text": "Change the date and time format to 24-hour.", "labels": [[11, 31, "setting"], [35, 42, "value"]]}
+{"text": "Set the default email client to Outlook.", "labels": [[15, 34, "setting"], [38, 45, "value"]]}
+{"text": "Turn off predictive text.", "labels": [[9, 25, "setting"], [5, 8, "value"]]}
+{"text": "I need to modify my startup applications.", "labels": [[21, 41, "setting"]]}
+{"text": "Set the mouse sensitivity to medium.", "labels": [[8, 26, "setting"], [30, 36, "value"]]}
+{"text": "Enable accessibility features.", "labels": [[7, 30, "setting"]]}
+{"text": "Change my password.", "labels": [[11, 19, "setting"]]}
+{"text": "Set lock screen notifications to 'hide'.", "labels": [[4, 29, "setting"], [33, 39, "value"]]}
+{"text": "Open Spotify.", "labels": [[5, 12, "app"]]}
+{"text": "Launch Google Chrome.", "labels": [[7, 20, "app"]]}
+{"text": "Start Photoshop.", "labels": [[6, 15, "app"]]}
+{"text": "Can you open Visual Studio Code for me?", "labels": [[13, 31, "app"]]}
+{"text": "I need to use Microsoft Word.", "labels": [[16, 31, "app"]]}
+{"text": "Run the terminal.", "labels": [[8, 16, "app"]]}
+{"text": "Fire up Slack.", "labels": [[9, 14, "app"]]}
+{"text": "Let's open Netflix.", "labels": [[11, 18, "app"]]}
+{"text": "Get me into my email client.", "labels": [[16, 28, "app"]]}
+{"text": "Open the file explorer.", "labels": [[9, 23, "app"]]}
+{"text": "I want to open Discord.", "labels": [[15, 22, "app"]]}
+{"text": "Please start the Zoom meeting app.", "labels": [[15, 31, "app"]]}
+{"text": "Launch the calculator.", "labels": [[10, 20, "app"]]}
+{"text": "Can you run the command prompt?", "labels": [[15, 30, "app"]]}
+{"text": "I'd like to use GIMP.", "labels": [[18, 22, "app"]]}
+{"text": "Open my calendar application.", "labels": [[9, 29, "app"]]}
+{"text": "Start up my web browser.", "labels": [[12, 23, "app"]]}
+{"text": "I need to open the settings panel.", "labels": [[17, 31, "app"]]}
+{"text": "Launch VLC Media Player.", "labels": [[7, 24, "app"]]}
+{"text": "Could you open iTunes?", "labels": [[15, 21, "app"]]}
+{"text": "Please open the Notes app.", "labels": [[14, 23, "app"]]}
+{"text": "Run Adobe Acrobat Reader.", "labels": [[4, 24, "app"]]}
+{"text": "I want to access Steam.", "labels": [[18, 23, "app"]]}
+{"text": "Open the task manager.", "labels": [[9, 22, "app"]]}
+{"text": "Let's get PyCharm running.", "labels": [[10, 17, "app"]]}
+{"text": "Start a new session of Firefox.", "labels": [[24, 31, "app"]]}
+{"text": "Can you launch the Photos app?", "labels": [[16, 26, "app"]]}
+{"text": "Open my IDE.", "labels": [[9, 12, "app"]]}
+{"text": "I need to see my to-do list app.", "labels": [[17, 32, "app"]]}
+{"text": "Run Notion.", "labels": [[4, 10, "app"]]}
+{"text": "Close Spotify.", "labels": [[6, 13, "app"]]}
+{"text": "Quit Google Chrome.", "labels": [[5, 18, "app"]]}
+{"text": "Exit Photoshop.", "labels": [[5, 14, "app"]]}
+{"text": "Can you close Visual Studio Code?", "labels": [[14, 32, "app"]]}
+{"text": "I'm done with Microsoft Word.", "labels": [[16, 31, "app"]]}
+{"text": "Terminate the terminal process.", "labels": [[14, 22, "app"]]}
+{"text": "Shut down Slack.", "labels": [[10, 15, "app"]]}
+{"text": "Let's close Netflix.", "labels": [[12, 19, "app"]]}
+{"text": "Close my email client.", "labels": [[10, 22, "app"]]}
+{"text": "Exit the file explorer.", "labels": [[9, 23, "app"]]}
+{"text": "I want to close Discord.", "labels": [[15, 22, "app"]]}
+{"text": "Please end the Zoom meeting app.", "labels": [[14, 30, "app"]]}
+{"text": "I don't need the calculator anymore.", "labels": [[17, 27, "app"]]}
+{"text": "Can you quit the command prompt?", "labels": [[17, 32, "app"]]}
+{"text": "Close GIMP.", "labels": [[6, 10, "app"]]}
+{"text": "Shut down my calendar application.", "labels": [[14, 34, "app"]]}
+{"text": "Close my web browser.", "labels": [[10, 21, "app"]]}
+{"text": "I'm finished with the settings panel.", "labels": [[24, 38, "app"]]}
+{"text": "Terminate VLC Media Player.", "labels": [[10, 27, "app"]]}
+{"text": "Could you close iTunes?", "labels": [[15, 21, "app"]]}
+{"text": "Please exit the Notes app.", "labels": [[15, 24, "app"]]}
+{"text": "Quit Adobe Acrobat Reader.", "labels": [[5, 25, "app"]]}
+{"text": "I want to get out of Steam.", "labels": [[24, 29, "app"]]}
+{"text": "Close the task manager.", "labels": [[10, 23, "app"]]}
+{"text": "Let's kill the PyCharm process.", "labels": [[15, 22, "app"]]}
+{"text": "Close this session of Firefox.", "labels": [[23, 30, "app"]]}
+{"text": "Can you shut down the Photos app?", "labels": [[23, 33, "app"]]}
+{"text": "Close my IDE.", "labels": [[10, 13, "app"]]}
+{"text": "I'm done with my to-do list app.", "labels": [[19, 34, "app"]]}
+{"text": "Exit Notion.", "labels": [[5, 11, "app"]]}
+{"text": "Set brightness to 50%.", "labels": [[18, 21, "level"]]}
+{"text": "Change the screen brightness to 75.", "labels": [[12, 28, "device"], [32, 34, "level"]]}
+{"text": "Increase brightness on my main display.", "labels": [[27, 40, "device"]]}
+{"text": "Set the brightness of my laptop screen to max.", "labels": [[24, 38, "device"], [42, 45, "level"]]}
+{"text": "Dim the screen.", "labels": [[8, 14, "device"]]}
+{"text": "Make the screen brighter.", "labels": [[9, 15, "device"]]}
+{"text": "Set the brightness level to 30.", "labels": [[26, 28, "level"]]}
+{"text": "I want the brightness at 100 percent.", "labels": [[25, 36, "level"]]}
+{"text": "Can you make my external monitor less bright?", "labels": [[18, 35, "device"]]}
+{"text": "Max out the brightness.", "labels": [[12, 22, "level"]]}
+{"text": "Set the display brightness to minimum.", "labels": [[8, 15, "device"], [29, 36, "level"]]}
+{"text": "I need the brightness at 20.", "labels": [[25, 27, "level"]]}
+{"text": "Drop the brightness on screen 2.", "labels": [[24, 31, "device"]]}
+{"text": "Set brightness to a low setting.", "labels": [[18, 21, "level"]]}
+{"text": "Increase the screen's light.", "labels": [[16, 22, "device"]]}
+{"text": "Change brightness of my second monitor to 60%.", "labels": [[24, 39, "device"], [43, 46, "level"]]}
+{"text": "Set brightness on all displays to 80.", "labels": [[18, 31, "device"], [35, 37, "level"]]}
+{"text": "Set the brightness here to 40.", "labels": [[26, 28, "level"]]}
+{"text": "Brightness level 90.", "labels": [[17, 19, "level"]]}
+{"text": "Can you change the brightness of this display?", "labels": [[32, 44, "device"]]}
+{"text": "Reduce screen brightness.", "labels": [[7, 23, "device"]]}
+{"text": "Set my screen to full brightness.", "labels": [[8, 14, "device"], [18, 32, "level"]]}
+{"text": "I want the screen at 10 percent brightness.", "labels": [[10, 16, "device"], [20, 30, "level"]]}
+{"text": "Connect me to the 'HomeNet' network.", "labels": [[20, 28, "network"]]}
+{"text": "Join the WiFi called 'CoffeeShop_Guest'.", "labels": [[22, 40, "network"]]}
+{"text": "Find and connect to 'Public Library WiFi'.", "labels": [[21, 42, "network"]]}
+{"text": "I need to get on the 'Office-Secure' wireless network.", "labels": [[23, 37, "network"]]}
+{"text": "Switch my WiFi to 'MyHotspot_5G'.", "labels": [[19, 32, "network"]]}
+{"text": "Please connect to the internet via 'Airport_Free_WiFi'.", "labels": [[35, 55, "network"]]}
+{"text": "Can you connect me to 'xfinitywifi'?", "labels": [[23, 35, "network"]]}
+{"text": "Let's connect to the 'Guest' network.", "labels": [[23, 29, "network"]]}
+{"text": "I want to use the 'NeighborNet' WiFi.", "labels": [[20, 32, "network"]]}
+{"text": "Connect to the network named 'linksys'.", "labels": [[29, 36, "network"]]}
+{"text": "I need to connect to 'NETGEAR55'.", "labels": [[22, 32, "network"]]}
+{"text": "Please join the 'Starbucks' WiFi.", "labels": [[18, 28, "network"]]}
+{"text": "I'd like to connect to 'MySpectrumWiFi-2G-A9'.", "labels": [[25, 49, "network"]]}
+{"text": "Access the 'CorpNet' network.", "labels": [[11, 19, "network"]]}
+{"text": "Join 'My_Home_WiFi_5'.", "labels": [[5, 21, "network"]]}
+{"text": "Forget this network and connect to 'NewNet'.", "labels": [[36, 43, "network"]]}
+{"text": "Let's join the 'TechConference2023' network.", "labels": [[15, 36, "network"]]}
+{"text": "What's the weather in London?", "labels": [[23, 29, "location"]]}
+{"text": "Tell me the forecast for tomorrow.", "labels": [[25, 33, "date"]]}
+{"text": "How is the weather in Paris today?", "labels": [[22, 27, "location"], [28, 33, "date"]]}
+{"text": "Will it rain in Seattle this weekend?", "labels": [[16, 23, "location"], [24, 36, "date"]]}
+{"text": "I need the weather report for New York City.", "labels": [[30, 43, "location"]]}
+{"text": "Is it going to be sunny on Friday?", "labels": [[28, 34, "date"]]}
+{"text": "Give me the weather for Dubai.", "labels": [[24, 29, "location"]]}
+{"text": "What's the weather like right now in Berlin?", "labels": [[37, 43, "location"]]}
+{"text": "I'd like to know the weather for the next 5 days.", "labels": [[35, 48, "date"]]}
+{"text": "What will the weather be like in Chicago on Monday?", "labels": [[32, 39, "location"], [43, 49, "date"]]}
+{"text": "Check the forecast for my current location.", "labels": [[25, 43, "location"]]}
+{"text": "How cold will it be tonight in Moscow?", "labels": [[28, 35, "date"], [39, 45, "location"]]}
+{"text": "What's the UV index today?", "labels": [[21, 26, "date"]]}
+{"text": "Tell me about the weather in Sydney.", "labels": [[30, 36, "location"]]}
+{"text": "Do I need an umbrella today?", "labels": [[24, 29, "date"]]}
+{"text": "What is the wind speed in Wellington?", "labels": [[26, 36, "location"]]}
+{"text": "Can I get a weather update for Los Angeles?", "labels": [[30, 42, "location"]]}
+{"text": "How hot is it in Phoenix right now?", "labels": [[18, 25, "location"]]}
+{"text": "What's the extended forecast for Miami?", "labels": [[32, 37, "location"]]}
+{"text": "Will there be snow in the mountains this week?", "labels": [[25, 38, "location"], [39, 48, "date"]]}
+{"text": "Weather report for Toronto.", "labels": [[18, 25, "location"]]}
+{"text": "How's the weather looking for the weekend?", "labels": [[31, 42, "date"]]}
+{"text": "Is it humid in Houston?", "labels": [[16, 23, "location"]]}
+{"text": "What's the chance of rain tomorrow?", "labels": [[27, 35, "date"]]}
+{"text": "Tell me the current conditions for Denver.", "labels": [[33, 39, "location"]]}
+{"text": "Play some jazz music", "labels": [[10, 14, "genre"]]}
+{"text": "Can you play rock music by Queen", "labels": [[16, 20, "genre"], [29, 34, "artist"]]}
+{"text": "I want to hear classical music", "labels": [[17, 26, "genre"]]}
+{"text": "Play happy music", "labels": [[5, 10, "mood"]]}
+{"text": "Put on some Beatles songs", "labels": [[16, 23, "artist"]]}
+{"text": "Play relaxing ambient music", "labels": [[5, 13, "mood"], [14, 21, "genre"]]}
+{"text": "I need some upbeat pop music", "labels": [[12, 18, "mood"], [19, 22, "genre"]]}
+{"text": "Can you play something by Taylor Swift", "labels": [[30, 42, "artist"]]}
+{"text": "Play electronic dance music", "labels": [[5, 15, "genre"], [16, 21, "genre"]]}
+{"text": "I want sad country music", "labels": [[7, 10, "mood"], [11, 18, "genre"]]}
+{"text": "Put on some heavy metal", "labels": [[16, 27, "genre"]]}
+{"text": "Play chill lo-fi hip hop beats", "labels": [[5, 10, "mood"], [11, 16, "genre"], [17, 24, "genre"]]}
+{"text": "I'd like to listen to some smooth jazz by Miles Davis", "labels": [[35, 40, "mood"], [41, 45, "genre"], [49, 60, "artist"]]}
+{"text": "Play energetic workout music", "labels": [[5, 14, "mood"]]}
+{"text": "Can you put on some blues music", "labels": [[24, 29, "genre"]]}
+{"text": "Play romantic ballads", "labels": [[5, 13, "mood"], [14, 21, "genre"]]}
+{"text": "I want to hear some reggae by Bob Marley", "labels": [[24, 30, "genre"], [34, 44, "artist"]]}
+{"text": "Play indie alternative rock", "labels": [[5, 9, "genre"], [10, 21, "genre"], [22, 26, "genre"]]}
+{"text": "Put on some folk music", "labels": [[16, 20, "genre"]]}
+{"text": "Play angry punk rock", "labels": [[5, 10, "mood"], [11, 15, "genre"], [16, 20, "genre"]]}
+{"text": "I need some classical piano music", "labels": [[12, 21, "genre"], [22, 27, "genre"]]}
+{"text": "Can you play trap music", "labels": [[16, 20, "genre"]]}
+{"text": "Play some acoustic guitar songs", "labels": [[11, 19, "genre"], [20, 26, "genre"]]}
+{"text": "I want peaceful meditation music", "labels": [[7, 15, "mood"], [16, 26, "genre"]]}
+{"text": "Put on house music for dancing", "labels": [[7, 12, "genre"]]}
+{"text": "Play some R&B soul music", "labels": [[11, 14, "genre"], [15, 19, "genre"]]}
+{"text": "Can you play nostalgic 80s music", "labels": [[16, 25, "mood"], [26, 29, "genre"]]}
+{"text": "I'd like dramatic orchestral music", "labels": [[11, 19, "mood"], [20, 31, "genre"]]}
+{"text": "Play funky disco music", "labels": [[5, 10, "mood"], [11, 16, "genre"]]}
+{"text": "Put on some gospel music", "labels": [[16, 22, "genre"]]}
+{"text": "Play mysterious dark ambient sounds", "labels": [[5, 15, "mood"], [16, 20, "mood"], [21, 28, "genre"]]}
+{"text": "I want cheerful pop rock", "labels": [[7, 15, "mood"], [16, 19, "genre"], [20, 24, "genre"]]}
+{"text": "Can you play Latin salsa music", "labels": [[16, 21, "genre"], [22, 27, "genre"]]}
+{"text": "Play some progressive metal", "labels": [[11, 22, "genre"], [23, 28, "genre"]]}
+{"text": "I need inspiring uplifting music", "labels": [[7, 16, "mood"], [17, 26, "mood"]]}
+{"text": "Put on experimental electronic music", "labels": [[7, 19, "genre"], [20, 30, "genre"]]}
+{"text": "Play melancholic indie folk", "labels": [[5, 16, "mood"], [17, 21, "genre"], [22, 26, "genre"]]}
+{"text": "Can you play some psychedelic rock by Pink Floyd", "labels": [[23, 35, "genre"], [36, 40, "genre"], [44, 54, "artist"]]}
+{"text": "Turn up volume to 80", "labels": [[20, 22, "level"]]}
+{"text": "Increase volume to maximum", "labels": [[19, 26, "level"]]}
+{"text": "Set volume to 75 percent", "labels": [[14, 17, "level"]]}
+{"text": "Turn volume up by 20", "labels": [[18, 20, "level"]]}
+{"text": "Make it 50% louder", "labels": [[8, 11, "level"]]}
+{"text": "Increase volume to high", "labels": [[19, 23, "level"]]}
+{"text": "Turn up to full volume", "labels": [[11, 15, "level"]]}
+{"text": "Set volume level to 60", "labels": [[20, 22, "level"]]}
+{"text": "Increase sound to 90 percent", "labels": [[22, 24, "level"]]}
+{"text": "Turn volume up to medium high", "labels": [[19, 30, "level"]]}
+{"text": "Make volume 85", "labels": [[12, 14, "level"]]}
+{"text": "Raise volume to 70", "labels": [[16, 18, "level"]]}
+{"text": "Set audio level to maximum", "labels": [[19, 26, "level"]]}
+{"text": "Increase to full blast", "labels": [[12, 22, "level"]]}
+{"text": "Turn down volume to 30", "labels": [[22, 24, "level"]]}
+{"text": "Decrease volume to minimum", "labels": [[20, 27, "level"]]}
+{"text": "Set volume to 25 percent", "labels": [[14, 17, "level"]]}
+{"text": "Turn volume down by 15", "labels": [[20, 22, "level"]]}
+{"text": "Make it 40% quieter", "labels": [[8, 11, "level"]]}
+{"text": "Decrease volume to low", "labels": [[20, 23, "level"]]}
+{"text": "Turn down to half volume", "labels": [[13, 17, "level"]]}
+{"text": "Set volume level to 20", "labels": [[20, 22, "level"]]}
+{"text": "Decrease sound to 10 percent", "labels": [[22, 24, "level"]]}
+{"text": "Turn volume down to medium low", "labels": [[21, 31, "level"]]}
+{"text": "Make volume 35", "labels": [[12, 14, "level"]]}
+{"text": "Lower volume to 15", "labels": [[16, 18, "level"]]}
+{"text": "Set audio level to minimum", "labels": [[19, 26, "level"]]}
+{"text": "Decrease to barely audible", "labels": [[12, 26, "level"]]}
+{"text": "Change wallpaper to nature", "labels": [[20, 26, "theme"]]}
+{"text": "Set wallpaper to blue ocean", "labels": [[17, 21, "color"], [22, 27, "theme"]]}
+{"text": "Change background to mountains", "labels": [[21, 30, "theme"]]}
+{"text": "Set wallpaper with cats", "labels": [[18, 22, "subject"]]}
+{"text": "Change to forest wallpaper", "labels": [[10, 16, "theme"]]}
+{"text": "Set background to red sunset", "labels": [[18, 21, "color"], [22, 28, "theme"]]}
+{"text": "Change wallpaper to space theme", "labels": [[20, 25, "theme"]]}
+{"text": "Set dark wallpaper", "labels": [[4, 8, "color"]]}
+{"text": "Change background to city lights", "labels": [[21, 25, "theme"], [26, 32, "theme"]]}
+{"text": "Set wallpaper with dogs", "labels": [[18, 22, "subject"]]}
+{"text": "Change to abstract art", "labels": [[10, 12, "theme"], [13, 16, "theme"]]}
+{"text": "Set purple galaxy wallpaper", "labels": [[4, 10, "color"], [11, 17, "theme"]]}
+{"text": "Change background to flowers", "labels": [[21, 28, "subject"]]}
+{"text": "Set minimalist wallpaper", "labels": [[4, 14, "theme"]]}
+{"text": "Change to green landscape", "labels": [[10, 15, "color"], [16, 25, "theme"]]}
+{"text": "Set wallpaper with cars", "labels": [[18, 22, "subject"]]}
+{"text": "Change background to vintage style", "labels": [[21, 28, "theme"]]}
+{"text": "Set bright colorful wallpaper", "labels": [[4, 9, "color"], [10, 18, "color"]]}
+{"text": "Change to winter scene", "labels": [[10, 16, "theme"]]}
+{"text": "Set wallpaper with birds", "labels": [[18, 23, "subject"]]}
+{"text": "Change background to geometric patterns", "labels": [[21, 30, "theme"], [31, 39, "theme"]]}
+{"text": "Set black and white wallpaper", "labels": [[4, 9, "color"], [14, 19, "color"]]}
+{"text": "Change to beach theme", "labels": [[10, 15, "theme"]]}
+{"text": "Set wallpaper with horses", "labels": [[18, 24, "subject"]]}
+{"text": "Change background to anime style", "labels": [[21, 26, "theme"]]}
+{"text": "Set gradient wallpaper", "labels": [[4, 12, "theme"]]}
+{"text": "Change to fantasy landscape", "labels": [[10, 17, "theme"], [18, 27, "theme"]]}
+{"text": "Set wallpaper with architecture", "labels": [[18, 30, "subject"]]}
+{"text": "Change background to retro design", "labels": [[21, 26, "theme"]]}
+{"text": "Set golden hour wallpaper", "labels": [[4, 11, "color"], [12, 16, "theme"]]}
+{"text": "Set theme to dark mode", "labels": [[13, 17, "theme"], [18, 22, "theme"]]}
+{"text": "Change theme to light", "labels": [[16, 21, "theme"]]}
+{"text": "Set blue theme", "labels": [[4, 8, "color"]]}
+{"text": "Change to night theme", "labels": [[10, 15, "theme"]]}
+{"text": "Set green color scheme", "labels": [[4, 9, "color"]]}
+{"text": "Change theme to minimal", "labels": [[16, 23, "theme"]]}
+{"text": "Set red theme", "labels": [[4, 7, "color"]]}
+{"text": "Change to classic theme", "labels": [[10, 17, "theme"]]}
+{"text": "Set purple color theme", "labels": [[4, 10, "color"]]}
+{"text": "Change theme to modern", "labels": [[16, 22, "theme"]]}
+{"text": "Set orange theme", "labels": [[4, 10, "color"]]}
+{"text": "Change to retro theme", "labels": [[10, 15, "theme"]]}
+{"text": "Set black theme", "labels": [[4, 9, "color"]]}
+{"text": "Change theme to elegant", "labels": [[16, 23, "theme"]]}
+{"text": "Set pink color scheme", "labels": [[4, 8, "color"]]}
+{"text": "Change to high contrast theme", "labels": [[10, 14, "theme"], [15, 23, "theme"]]}
+{"text": "Set yellow theme", "labels": [[4, 10, "color"]]}
+{"text": "Change theme to professional", "labels": [[16, 28, "theme"]]}
+{"text": "Set cyan color theme", "labels": [[4, 8, "color"]]}
+{"text": "Change to gaming theme", "labels": [[10, 16, "theme"]]}
+{"text": "Set white theme", "labels": [[4, 9, "color"]]}
+{"text": "Change theme to futuristic", "labels": [[16, 26, "theme"]]}
+{"text": "Set teal color scheme", "labels": [[4, 8, "color"]]}
+{"text": "Change to rainbow theme", "labels": [[10, 17, "color"]]}
+{"text": "Set silver theme", "labels": [[4, 10, "color"]]}
+{"text": "Change theme to vintage", "labels": [[16, 23, "theme"]]}
+{"text": "Set gold color theme", "labels": [[4, 8, "color"]]}
+{"text": "Change to neon theme", "labels": [[10, 14, "theme"]]}
+{"text": "Set magenta theme", "labels": [[4, 11, "color"]]}
+{"text": "Change theme to corporate", "labels": [[16, 25, "theme"]]}
+{"text": "Update my name to John", "labels": [[10, 14, "field"], [18, 22, "value"]]}
+{"text": "Change profile email to john@email.com", "labels": [[15, 20, "field"], [24, 38, "value"]]}
+{"text": "Set my age to 25", "labels": [[7, 10, "field"], [14, 16, "value"]]}
+{"text": "Update phone number to 555-1234", "labels": [[7, 19, "field"], [23, 31, "value"]]}
+{"text": "Change my location to New York", "labels": [[10, 18, "field"], [22, 30, "value"]]}
+{"text": "Set profile picture to avatar.jpg", "labels": [[4, 19, "field"], [23, 33, "value"]]}
+{"text": "Update bio to software engineer", "labels": [[7, 10, "field"], [14, 31, "value"]]}
+{"text": "Change username to johnny123", "labels": [[7, 15, "field"], [19, 28, "value"]]}
+{"text": "Set occupation to teacher", "labels": [[4, 14, "field"], [18, 25, "value"]]}
+{"text": "Update address to 123 Main Street", "labels": [[7, 14, "field"], [18, 33, "value"]]}
+{"text": "Change birthday to January 15th", "labels": [[7, 15, "field"], [19, 31, "value"]]}
+{"text": "Set status to available", "labels": [[4, 10, "field"], [14, 23, "value"]]}
+{"text": "Update timezone to EST", "labels": [[7, 15, "field"], [19, 22, "value"]]}
+{"text": "Change password to newpass123", "labels": [[7, 15, "field"], [19, 29, "value"]]}
+{"text": "Set language preference to Spanish", "labels": [[4, 23, "field"], [27, 34, "value"]]}
+{"text": "Update emergency contact to mom", "labels": [[7, 24, "field"], [28, 31, "value"]]}
+{"text": "Change nationality to Canadian", "labels": [[7, 18, "field"], [22, 30, "value"]]}
+{"text": "Set relationship status to single", "labels": [[4, 23, "field"], [27, 33, "value"]]}
+{"text": "Update education to Bachelor's Degree", "labels": [[7, 16, "field"], [20, 37, "value"]]}
+{"text": "Change hobby to photography", "labels": [[7, 12, "field"], [16, 27, "value"]]}
+{"text": "Set favorite color to blue", "labels": [[4, 18, "field"], [22, 26, "value"]]}
+{"text": "Update company to TechCorp", "labels": [[7, 14, "field"], [18, 26, "value"]]}
+{"text": "Change job title to manager", "labels": [[7, 16, "field"], [20, 27, "value"]]}
+{"text": "Set experience to 5 years", "labels": [[4, 14, "field"], [18, 25, "value"]]}
+{"text": "Update skills to Python programming", "labels": [[7, 13, "field"], [17, 35, "value"]]}
+{"text": "Change website to mysite.com", "labels": [[7, 14, "field"], [18, 28, "value"]]}
+{"text": "Set gender to non-binary", "labels": [[4, 10, "field"], [14, 24, "value"]]}
+{"text": "Update linkedin to linkedin.com/johndoe", "labels": [[7, 15, "field"], [19, 39, "value"]]}
+{"text": "Change twitter handle to @john_doe", "labels": [[7, 21, "field"], [25, 34, "value"]]}
+{"text": "Set notification preference to email only", "labels": [[4, 27, "field"], [31, 41, "value"]]}
+{"text": "Remember my birthday is March 15th", "labels": [[11, 19, "field"], [23, 33, "value"]]}
+{"text": "Store that my favorite color is red", "labels": [[13, 27, "field"], [31, 34, "value"]]}
+{"text": "Remember I live in Seattle", "labels": [[11, 12, "field"], [19, 26, "value"]]}
+{"text": "Save my phone number as 555-0123", "labels": [[8, 20, "field"], [24, 32, "value"]]}
+{"text": "Remember my name is Sarah", "labels": [[12, 16, "field"], [20, 25, "value"]]}
+{"text": "Store that I work at Google", "labels": [[13, 14, "field"], [20, 26, "value"]]}
+{"text": "Remember my email is sarah@gmail.com", "labels": [[12, 17, "field"], [21, 36, "value"]]}
+{"text": "Save that my hobby is cooking", "labels": [[13, 18, "field"], [22, 29, "value"]]}
+{"text": "Remember I'm 28 years old", "labels": [[11, 12, "field"], [16, 18, "value"]]}
+{"text": "Store my pet's name as Fluffy", "labels": [[9, 20, "field"], [24, 30, "value"]]}
+{"text": "Remember my car is a Honda Civic", "labels": [[12, 15, "field"], [21, 32, "value"]]}
+{"text": "Save that I'm allergic to peanuts", "labels": [[13, 14, "field"], [18, 33, "value"]]}
+{"text": "Remember my anniversary is June 10th", "labels": [[12, 23, "field"], [27, 36, "value"]]}
+{"text": "Store my favorite food as pizza", "labels": [[9, 22, "field"], [26, 31, "value"]]}
+{"text": "Remember I speak French fluently", "labels": [[11, 12, "field"], [18, 32, "value"]]}
+{"text": "Save that my doctor is Dr. Smith", "labels": [[13, 19, "field"], [23, 32, "value"]]}
+{"text": "Remember my gym membership expires in May", "labels": [[12, 27, "field"], [35, 41, "value"]]}
+{"text": "Store my mother's maiden name as Johnson", "labels": [[9, 30, "field"], [34, 41, "value"]]}
+{"text": "Remember I graduated from MIT", "labels": [[11, 12, "field"], [18, 29, "value"]]}
+{"text": "Save that my blood type is O positive", "labels": [[13, 23, "field"], [27, 37, "value"]]}
+{"text": "Remember my favorite movie is Inception", "labels": [[12, 26, "field"], [30, 39, "value"]]}
+{"text": "Store my shoe size as 9.5", "labels": [[9, 18, "field"], [22, 25, "value"]]}
+{"text": "Remember I have two cats", "labels": [[11, 12, "field"], [18, 22, "value"]]}
+{"text": "Save that I'm vegetarian", "labels": [[13, 14, "field"], [18, 24, "value"]]}
+{"text": "Remember my boss is Jennifer", "labels": [[12, 16, "field"], [20, 28, "value"]]}
+{"text": "Store that I play guitar", "labels": [[13, 14, "field"], [20, 24, "value"]]}
+{"text": "Remember my timezone is Pacific", "labels": [[12, 20, "field"], [24, 31, "value"]]}
+{"text": "Save my favorite band as The Beatles", "labels": [[8, 21, "field"], [25, 36, "value"]]}
+{"text": "Remember I drive a Tesla Model 3", "labels": [[11, 12, "field"], [20, 32, "value"]]}
+{"text": "Store that my dad's name is Robert", "labels": [[13, 24, "field"], [28, 34, "value"]]}
+{"text": "Remind me to call mom at 3 PM", "labels": [[25, 29, "time"], [13, 21, "task"]]}
+{"text": "Set reminder for dentist appointment tomorrow", "labels": [[37, 45, "date"], [16, 35, "task"]]}
+{"text": "Remember to buy groceries on Friday", "labels": [[30, 36, "date"], [14, 27, "task"]]}
+{"text": "Remind me to take medicine at 8 AM", "labels": [[30, 34, "time"], [14, 26, "task"]]}
+{"text": "Set reminder for meeting at 2:30 PM today", "labels": [[26, 33, "time"], [37, 42, "date"], [16, 23, "task"]]}
+{"text": "Remember to walk the dog at 6 PM", "labels": [[29, 33, "time"], [14, 26, "task"]]}
+{"text": "Remind me about birthday party on Saturday", "labels": [[35, 43, "date"], [16, 30, "task"]]}
+{"text": "Set reminder to pay bills next week", "labels": [[18, 27, "task"], [28, 37, "date"]]}
+{"text": "Remember to submit report by 5 PM", "labels": [[30, 34, "time"], [14, 27, "task"]]}
+{"text": "Remind me to exercise at 7 AM tomorrow", "labels": [[25, 29, "time"], [30, 38, "date"], [14, 22, "task"]]}
+{"text": "Set reminder for yoga class at 6:30 PM", "labels": [[31, 38, "time"], [16, 26, "task"]]}
+{"text": "Remember to check email every morning", "labels": [[14, 25, "task"], [26, 39, "time"]]}
+{"text": "Remind me to water plants on Monday", "labels": [[29, 36, "date"], [14, 26, "task"]]}
+{"text": "Set reminder for conference call at 10 AM", "labels": [[35, 40, "time"], [16, 31, "task"]]}
+{"text": "Remember to backup files tonight", "labels": [[14, 26, "task"], [27, 34, "date"]]}
+{"text": "Remind me about lunch meeting at noon", "labels": [[33, 37, "time"], [16, 29, "task"]]}
+{"text": "Set reminder to renew license next month", "labels": [[18, 31, "task"], [32, 42, "date"]]}
+{"text": "Remember to call bank at 4 PM", "labels": [[25, 29, "time"], [14, 23, "task"]]}
+{"text": "Remind me to pack bags for trip on Thursday", "labels": [[36, 44, "date"], [14, 31, "task"]]}
+{"text": "Set reminder for doctor visit at 3:15 PM", "labels": [[34, 41, "time"], [16, 28, "task"]]}
+{"text": "Remember to feed cat at 7 PM", "labels": [[25, 29, "time"], [14, 22, "task"]]}
+{"text": "Remind me to study for exam tomorrow morning", "labels": [[29, 44, "date"], [14, 25, "task"]]}
+{"text": "Set reminder to clean house this weekend", "labels": [[18, 29, "task"], [30, 42, "date"]]}
+{"text": "Remember to pick up kids at 3:30 PM", "labels": [[31, 38, "time"], [14, 26, "task"]]}
+{"text": "Remind me about team meeting at 9 AM Monday", "labels": [[33, 37, "time"], [38, 44, "date"], [16, 28, "task"]]}
+{"text": "Set reminder to book flight next Tuesday", "labels": [[18, 29, "task"], [30, 42, "date"]]}
+{"text": "Remember to change oil in car this week", "labels": [[14, 31, "task"], [32, 41, "date"]]}
+{"text": "Remind me to return library books by Friday", "labels": [[37, 43, "date"], [14, 35, "task"]]}
+{"text": "Set reminder for presentation at 1 PM", "labels": [[33, 37, "time"], [16, 28, "task"]]}
+{"text": "Remember to take vitamins every day", "labels": [[14, 27, "task"], [28, 38, "date"]]}
+{"text": "Change my name to Alex", "labels": [[17, 21, "name"]]}
+{"text": "Set my name as Michael", "labels": [[15, 22, "name"]]}
+{"text": "Call me Jennifer", "labels": [[8, 16, "name"]]}
+{"text": "My name is David", "labels": [[11, 16, "name"]]}
+{"text": "Change name to Lisa", "labels": [[15, 19, "name"]]}
+{"text": "I want to be called Robert", "labels": [[20, 26, "name"]]}
+{"text": "Set name to Emma", "labels": [[12, 16, "name"]]}
+{"text": "Please call me Tom", "labels": [[15, 18, "name"]]}
+{"text": "Change my name to Jessica", "labels": [[18, 25, "name"]]}
+{"text": "My new name is Christopher", "labels": [[15, 26, "name"]]}
+{"text": "Set my name to Amanda", "labels": [[14, 20, "name"]]}
+{"text": "Call me by the name William", "labels": [[20, 27, "name"]]}
+{"text": "Change name to Michelle", "labels": [[15, 23, "name"]]}
+{"text": "I want my name to be Kevin", "labels": [[21, 26, "name"]]}
+{"text": "Set name as Rachel", "labels": [[11, 17, "name"]]}
+{"text": "Please change my name to Brian", "labels": [[25, 30, "name"]]}
+{"text": "My name should be Nicole", "labels": [[18, 24, "name"]]}
+{"text": "Call me Tyler", "labels": [[8, 13, "name"]]}
+{"text": "Change my name to Stephanie", "labels": [[18, 27, "name"]]}
+{"text": "Set my name as Jonathan", "labels": [[15, 23, "name"]]}
+{"text": "I want to be called Ashley", "labels": [[20, 26, "name"]]}
+{"text": "My new name is Matthew", "labels": [[15, 22, "name"]]}
+{"text": "Change name to Lauren", "labels": [[15, 21, "name"]]}
+{"text": "Please call me Daniel", "labels": [[15, 21, "name"]]}
+{"text": "Set name to Samantha", "labels": [[12, 20, "name"]]}
+{"text": "Call me by Anthony", "labels": [[12, 19, "name"]]}
+{"text": "Change my name to Elizabeth", "labels": [[18, 27, "name"]]}
+{"text": "My name is Andrew", "labels": [[11, 17, "name"]]}
+{"text": "Set my name to Victoria", "labels": [[14, 22, "name"]]}
+{"text": "I want to be called Joshua", "labels": [[20, 26, "name"]]}
+{"text": "Change voice to female", "labels": [[13, 19, "voice_type"]]}
+{"text": "Set voice to male", "labels": [[12, 16, "voice_type"]]}
+{"text": "Switch to robotic voice", "labels": [[10, 17, "voice_type"]]}
+{"text": "Change to British accent", "labels": [[10, 17, "voice_type"], [18, 24, "voice_type"]]}
+{"text": "Set voice type to deep", "labels": [[18, 22, "voice_type"]]}
+{"text": "Switch voice to high pitched", "labels": [[13, 17, "voice_type"]]}
+{"text": "Change to American accent", "labels": [[10, 18, "voice_type"], [19, 25, "voice_type"]]}
+{"text": "Set voice to soft", "labels": [[12, 16, "voice_type"]]}
+{"text": "Switch to Australian accent", "labels": [[10, 20, "voice_type"], [21, 27, "voice_type"]]}
+{"text": "Change voice to loud", "labels": [[13, 17, "voice_type"]]}
+{"text": "Set voice type to calm", "labels": [[18, 22, "voice_type"]]}
+{"text": "Switch to energetic voice", "labels": [[10, 19, "voice_type"]]}
+{"text": "Change to French accent", "labels": [[10, 16, "voice_type"], [17, 23, "voice_type"]]}
+{"text": "Set voice to whisper", "labels": [[12, 19, "voice_type"]]}
+{"text": "Switch voice to cheerful", "labels": [[13, 21, "voice_type"]]}
+{"text": "Change to German accent", "labels": [[10, 16, "voice_type"], [17, 23, "voice_type"]]}
+{"text": "Set voice type to serious", "labels": [[18, 25, "voice_type"]]}
+{"text": "Switch to playful voice", "labels": [[10, 17, "voice_type"]]}
+{"text": "Change voice to monotone", "labels": [[13, 21, "voice_type"]]}
+{"text": "Set voice to dramatic", "labels": [[12, 20, "voice_type"]]}
+{"text": "Switch to friendly voice", "labels": [[10, 18, "voice_type"]]}
+{"text": "Change to Italian accent", "labels": [[10, 17, "voice_type"], [18, 24, "voice_type"]]}
+{"text": "Set voice type to professional", "labels": [[18, 30, "voice_type"]]}
+{"text": "Switch voice to casual", "labels": [[13, 19, "voice_type"]]}
+{"text": "Change to Spanish accent", "labels": [[10, 17, "voice_type"], [18, 24, "voice_type"]]}
+{"text": "Set voice to authoritative", "labels": [[12, 25, "voice_type"]]}
+{"text": "Switch to smooth voice", "labels": [[10, 16, "voice_type"]]}
+{"text": "Change voice to computerized", "labels": [[13, 26, "voice_type"]]}
+{"text": "Set voice type to natural", "labels": [[18, 25, "voice_type"]]}
+{"text": "Switch to synthetic voice", "labels": [[10, 19, "voice_type"]]}
+{"text": "Update brightness setting to 80", "labels": [[7, 17, "setting"], [29, 31, "value"]]}
+{"text": "Change notification settings to off", "labels": [[7, 28, "setting"], [32, 35, "value"]]}
+{"text": "Set audio quality to high", "labels": [[4, 17, "setting"], [21, 25, "value"]]}
+{"text": "Update privacy settings to strict", "labels": [[7, 22, "setting"], [26, 32, "value"]]}
+{"text": "Change display resolution to 1920x1080", "labels": [[7, 25, "setting"], [29, 38, "value"]]}
+{"text": "Set power mode to performance", "labels": [[4, 14, "setting"], [18, 29, "value"]]}
+{"text": "Update auto-save to enabled", "labels": [[7, 16, "setting"], [20, 27, "value"]]}
+{"text": "Change theme preference to dark", "labels": [[7, 23, "setting"], [27, 31, "value"]]}
+{"text": "Set language to French", "labels": [[4, 12, "setting"], [16, 22, "value"]]}
+{"text": "Update security level to maximum", "labels": [[7, 21, "setting"], [25, 32, "value"]]}
+{"text": "Change font size to 14", "labels": [[7, 16, "setting"], [20, 22, "value"]]}
+{"text": "Set refresh rate to 60Hz", "labels": [[4, 16, "setting"], [20, 24, "value"]]}
+{"text": "Update backup frequency to daily", "labels": [[7, 23, "setting"], [27, 32, "value"]]}
+{"text": "Change screen timeout to 30 minutes", "labels": [[7, 21, "setting"], [25, 36, "value"]]}
+{"text": "Set microphone sensitivity to low", "labels": [[4, 25, "setting"], [29, 32, "value"]]}
+{"text": "Update storage limit to 100GB", "labels": [[7, 19, "setting"], [23, 29, "value"]]}
+{"text": "Change keyboard layout to QWERTY", "labels": [[7, 22, "setting"], [26, 32, "value"]]}
+{"text": "Set connection type to WiFi", "labels": [[4, 19, "setting"], [23, 27, "value"]]}
+{"text": "Update sound effects to disabled", "labels": [[7, 20, "setting"], [24, 32, "value"]]}
+{"text": "Change mouse sensitivity to high", "labels": [[7, 24, "setting"], [28, 32, "value"]]}
+{"text": "Set default browser to Chrome", "labels": [[4, 19, "setting"], [23, 29, "value"]]}
+{"text": "Update time format to 24-hour", "labels": [[7, 18, "setting"], [22, 29, "value"]]}
+{"text": "Change units to metric", "labels": [[7, 12, "setting"], [16, 22, "value"]]}
+{"text": "Set startup mode to fast", "labels": [[4, 16, "setting"], [20, 24, "value"]]}
+{"text": "Update cache size to 512MB", "labels": [[7, 17, "setting"], [21, 27, "value"]]}
+{"text": "Change update frequency to weekly", "labels": [[7, 23, "setting"], [27, 33, "value"]]}
+{"text": "Set quality preset to ultra", "labels": [[4, 18, "setting"], [22, 27, "value"]]}
+{"text": "Update location services to on", "labels": [[7, 24, "setting"], [28, 30, "value"]]}
+{"text": "Change accessibility to high contrast", "labels": [[7, 20, "setting"], [24, 37, "value"]]}
+{"text": "Set developer mode to enabled", "labels": [[4, 18, "setting"], [22, 29, "value"]]}
+{"text": "Open Spotify", "labels": [[5, 12, "app"]]}
+{"text": "Launch Chrome browser", "labels": [[7, 13, "app"], [14, 21, "app"]]}
+{"text": "Start Microsoft Word", "labels": [[6, 16, "app"], [17, 21, "app"]]}
+{"text": "Open calculator app", "labels": [[5, 15, "app"]]}
+{"text": "Launch Photoshop", "labels": [[7, 16, "app"]]}
+{"text": "Start Steam", "labels": [[6, 11, "app"]]}
+{"text": "Open Visual Studio Code", "labels": [[5, 12, "app"], [13, 19, "app"], [20, 24, "app"]]}
+{"text": "Launch WhatsApp", "labels": [[7, 15, "app"]]}
+{"text": "Start Excel", "labels": [[6, 11, "app"]]}
+{"text": "Open Discord", "labels": [[5, 12, "app"]]}
+{"text": "Launch Firefox", "labels": [[7, 14, "app"]]}
+{"text": "Start PowerPoint", "labels": [[6, 16, "app"]]}
+{"text": "Open Slack", "labels": [[5, 10, "app"]]}
+{"text": "Launch Zoom", "labels": [[7, 11, "app"]]}
+{"text": "Start Outlook", "labels": [[6, 13, "app"]]}
+{"text": "Open Notepad", "labels": [[5, 12, "app"]]}
+{"text": "Launch Adobe Illustrator", "labels": [[7, 12, "app"], [13, 24, "app"]]}
+{"text": "Start Skype", "labels": [[6, 11, "app"]]}
+{"text": "Open iTunes", "labels": [[5, 11, "app"]]}
+{"text": "Launch VLC media player", "labels": [[7, 10, "app"], [11, 16, "app"], [17, 23, "app"]]}
+{"text": "Start Teams", "labels": [[6, 11, "app"]]}
+{"text": "Open Paint", "labels": [[5, 10, "app"]]}
+{"text": "Launch IntelliJ IDEA", "labels": [[7, 16, "app"], [17, 21, "app"]]}
+{"text": "Start Blender", "labels": [[6, 13, "app"]]}
+{"text": "Open Telegram", "labels": [[5, 13, "app"]]}
+{"text": "Launch OBS Studio", "labels": [[7, 10, "app"], [11, 17, "app"]]}
+{"text": "Start Unity", "labels": [[6, 11, "app"]]}
+{"text": "Open Terminal", "labels": [[5, 13, "app"]]}
+{"text": "Launch Android Studio", "labels": [[7, 14, "app"], [15, 21, "app"]]}
+{"text": "Start GIMP", "labels": [[6, 10, "app"]]}
+{"text": "Close Spotify", "labels": [[6, 13, "app"]]}
+{"text": "Shut down Chrome browser", "labels": [[10, 16, "app"], [17, 24, "app"]]}
+{"text": "Exit Microsoft Word", "labels": [[5, 15, "app"], [16, 20, "app"]]}
+{"text": "Close calculator app", "labels": [[6, 16, "app"]]}
+{"text": "Quit Photoshop", "labels": [[5, 14, "app"]]}
+{"text": "Close Steam", "labels": [[6, 11, "app"]]}
+{"text": "Exit Visual Studio Code", "labels": [[5, 12, "app"], [13, 19, "app"], [20, 24, "app"]]}
+{"text": "Shut down WhatsApp", "labels": [[10, 18, "app"]]}
+{"text": "Close Excel", "labels": [[6, 11, "app"]]}
+{"text": "Quit Discord", "labels": [[5, 12, "app"]]}
+{"text": "Close Firefox", "labels": [[6, 13, "app"]]}
+{"text": "Exit PowerPoint", "labels": [[5, 15, "app"]]}
+{"text": "Shut down Slack", "labels": [[10, 15, "app"]]}
+{"text": "Close Zoom", "labels": [[6, 10, "app"]]}
+{"text": "Quit Outlook", "labels": [[5, 12, "app"]]}
+{"text": "Close Notepad", "labels": [[6, 13, "app"]]}
+{"text": "Exit Adobe Illustrator", "labels": [[5, 10, "app"], [11, 22, "app"]]}
+{"text": "Shut down Skype", "labels": [[10, 15, "app"]]}
+{"text": "Close iTunes", "labels": [[6, 12, "app"]]}
+{"text": "Quit VLC media player", "labels": [[5, 8, "app"], [9, 14, "app"], [15, 21, "app"]]}
+{"text": "Close Teams", "labels": [[6, 11, "app"]]}
+{"text": "Exit Paint", "labels": [[5, 10, "app"]]}
+{"text": "Shut down IntelliJ IDEA", "labels": [[10, 19, "app"], [20, 24, "app"]]}
+{"text": "Close Blender", "labels": [[6, 13, "app"]]}
+{"text": "Quit Telegram", "labels": [[5, 13, "app"]]}
+{"text": "Close OBS Studio", "labels": [[6, 9, "app"], [10, 16, "app"]]}
+{"text": "Exit Unity", "labels": [[5, 10, "app"]]}
+{"text": "Shut down Terminal", "labels": [[10, 18, "app"]]}
+{"text": "Close Android Studio", "labels": [[6, 13, "app"], [14, 20, "app"]]}
+{"text": "Quit GIMP", "labels": [[5, 9, "app"]]}
+{"text": "Set brightness to 50%", "labels": [[15, 18, "level"]]}
+{"text": "Increase the brightness to maximum", "labels": [[25, 32, "level"]]}
+{"text": "Turn down screen brightness to 25 percent", "labels": [[32, 42, "level"]]}
+{"text": "Adjust my laptop brightness to medium", "labels": [[10, 16, "device"], [30, 36, "level"]]}
+{"text": "Set the bedroom monitor brightness to 80%", "labels": [[8, 15, "location"], [16, 23, "device"], [37, 40, "level"]]}
+{"text": "Dim the brightness to low", "labels": [[19, 22, "level"]]}
+{"text": "Change brightness level to 70 percent", "labels": [[27, 37, "level"]]}
+{"text": "Set display brightness to half", "labels": [[26, 30, "level"]]}
+{"text": "Make the office computer screen brighter at 90%", "labels": [[9, 15, "location"], [16, 24, "device"], [25, 31, "device"], [43, 46, "level"]]}
+{"text": "Turn brightness up to full", "labels": [[22, 26, "level"]]}
+{"text": "Reduce screen brightness to 30%", "labels": [[24, 27, "level"]]}
+{"text": "Set living room TV brightness to 60 percent", "labels": [[4, 15, "location"], [16, 18, "device"], [32, 42, "level"]]}
+{"text": "Adjust brightness to minimum level", "labels": [[21, 34, "level"]]}
+{"text": "Increase brightness to 85%", "labels": [[23, 26, "level"]]}
+{"text": "Set main display brightness to three quarters", "labels": [[4, 16, "device"], [31, 45, "level"]]}
+{"text": "Turn down the brightness to 15 percent", "labels": [[28, 38, "level"]]}
+{"text": "Make brightness 100%", "labels": [[16, 20, "level"]]}
+{"text": "Adjust the kitchen tablet brightness to 40%", "labels": [[11, 18, "location"], [19, 25, "device"], [39, 42, "level"]]}
+{"text": "Set secondary monitor brightness to 55 percent", "labels": [[4, 21, "device"], [35, 45, "level"]]}
+{"text": "Dim screen to 20%", "labels": [[13, 16, "level"]]}
+{"text": "Change the office laptop brightness to 75%", "labels": [[11, 17, "location"], [18, 24, "device"], [38, 41, "level"]]}
+{"text": "Set brightness level to 65 percent", "labels": [[24, 34, "level"]]}
+{"text": "Turn up display brightness to 95%", "labels": [[29, 32, "level"]]}
+{"text": "Adjust bedroom screen brightness to medium", "labels": [[7, 14, "location"], [15, 21, "device"], [36, 42, "level"]]}
+{"text": "Set the brightness to quarter", "labels": [[22, 29, "level"]]}
+{"text": "Make laptop screen brightness 45%", "labels": [[5, 11, "device"], [12, 18, "device"], [30, 33, "level"]]}
+{"text": "Change brightness to 35 percent", "labels": [[21, 31, "level"]]}
+{"text": "Set TV brightness to high", "labels": [[4, 6, "device"], [20, 24, "level"]]}
+{"text": "Adjust the main computer brightness to 50 percent", "labels": [[11, 23, "device"], [37, 47, "level"]]}
+{"text": "Turn brightness down to 10%", "labels": [[24, 27, "level"]]}
+{"text": "Set monitor brightness to 88%", "labels": [[4, 11, "device"], [25, 28, "level"]]}
+{"text": "Increase the study room display brightness to maximum", "labels": [[13, 23, "location"], [24, 31, "device"], [45, 52, "level"]]}
+{"text": "Dim the brightness to 5 percent", "labels": [[22, 31, "level"]]}
+{"text": "Set brightness to normal", "labels": [[18, 24, "level"]]}
+{"text": "Change office desktop brightness to 72%", "labels": [[7, 13, "location"], [14, 21, "device"], [35, 38, "level"]]}
+{"text": "Adjust screen brightness to 92 percent", "labels": [[28, 38, "level"]]}
+{"text": "Connect to WiFi network HomeNetwork", "labels": [[21, 32, "network"]]}
+{"text": "Connect to MyWiFi", "labels": [[11, 17, "network"]]}
+{"text": "Join WiFi network Office_Guest", "labels": [[18, 30, "network"]]}
+{"text": "Connect to the wireless network Starbucks_WiFi", "labels": [[36, 49, "network"]]}
+{"text": "Connect to WiFi FreeInternet", "labels": [[16, 28, "network"]]}
+{"text": "Join the network CoffeeShop", "labels": [[17, 27, "network"]]}
+{"text": "Connect to wireless network MyHome5G", "labels": [[32, 40, "network"]]}
+{"text": "Connect WiFi to Guest_Network", "labels": [[16, 29, "network"]]}
+{"text": "Join WiFi Hotel_Lobby", "labels": [[10, 21, "network"]]}
+{"text": "Connect to the WiFi network Library_Public", "labels": [[31, 44, "network"]]}
+{"text": "Connect to network SchoolWiFi", "labels": [[19, 29, "network"]]}
+{"text": "Join wireless network Neighbors_WiFi", "labels": [[23, 37, "network"]]}
+{"text": "Connect to WiFi Airport_Free", "labels": [[16, 28, "network"]]}
+{"text": "Connect to the network RestaurantWiFi", "labels": [[23, 37, "network"]]}
+{"text": "Join WiFi network HospitalGuest", "labels": [[18, 31, "network"]]}
+{"text": "Connect WiFi McDonald's Free WiFi", "labels": [[13, 34, "network"]]}
+{"text": "Connect to wireless MyRouter", "labels": [[23, 31, "network"]]}
+{"text": "Join the WiFi network CampusNet", "labels": [[22, 31, "network"]]}
+{"text": "Connect to WiFi network xfinitywifi", "labels": [[24, 36, "network"]]}
+{"text": "Connect to GymWiFi", "labels": [[11, 18, "network"]]}
+{"text": "Join network MallFreeWiFi", "labels": [[13, 25, "network"]]}
+{"text": "Connect to the WiFi BankGuest", "labels": [[20, 29, "network"]]}
+{"text": "Connect WiFi to PublicLibrary", "labels": [[16, 29, "network"]]}
+{"text": "Join wireless network OfficeMain", "labels": [[23, 33, "network"]]}
+{"text": "Connect to WiFi network StudentHousing", "labels": [[24, 38, "network"]]}
+{"text": "Connect to network DoctorOffice_WiFi", "labels": [[19, 36, "network"]]}
+{"text": "Join WiFi ConferenceRoom", "labels": [[10, 24, "network"]]}
+{"text": "Connect to the wireless network TrainStation", "labels": [[36, 48, "network"]]}
+{"text": "Connect WiFi to HotelGuest", "labels": [[16, 26, "network"]]}
+{"text": "Join the network ParkWiFi", "labels": [[17, 25, "network"]]}
+{"text": "Connect to WiFi network PhoneHotspot", "labels": [[24, 36, "network"]]}
+{"text": "Connect to wireless CityHall_Public", "labels": [[23, 38, "network"]]}
+{"text": "Join WiFi network ShoppingCenter", "labels": [[18, 32, "network"]]}
+{"text": "Connect to the network UniversityWiFi", "labels": [[23, 37, "network"]]}
+{"text": "Connect WiFi BusinessCenter", "labels": [[13, 27, "network"]]}
+{"text": "Check weather for today", "labels": [[18, 23, "date"]]}
+{"text": "What's the weather in New York", "labels": [[22, 30, "location"]]}
+{"text": "Check weather tomorrow", "labels": [[14, 22, "date"]]}
+{"text": "Weather forecast for Los Angeles", "labels": [[21, 32, "location"]]}
+{"text": "Check today's weather in Chicago", "labels": [[6, 11, "date"], [25, 32, "location"]]}
+{"text": "What's the weather like in Paris", "labels": [[27, 32, "location"]]}
+{"text": "Weather for this weekend", "labels": [[12, 24, "date"]]}
+{"text": "Check weather in London tomorrow", "labels": [[17, 23, "location"], [24, 32, "date"]]}
+{"text": "What's tomorrow's weather forecast", "labels": [[7, 16, "date"]]}
+{"text": "Weather in San Francisco today", "labels": [[11, 24, "location"], [25, 30, "date"]]}
+{"text": "Check the weather for next week", "labels": [[25, 34, "date"]]}
+{"text": "What's the weather in Tokyo", "labels": [[22, 27, "location"]]}
+{"text": "Weather forecast for Monday", "labels": [[21, 27, "date"]]}
+{"text": "Check weather in Miami this afternoon", "labels": [[17, 22, "location"], [23, 36, "date"]]}
+{"text": "What's the weather going to be like in Seattle", "labels": [[40, 47, "location"]]}
+{"text": "Weather for next Tuesday", "labels": [[12, 24, "date"]]}
+{"text": "Check today's weather forecast", "labels": [[6, 11, "date"]]}
+{"text": "What's the weather in Berlin on Friday", "labels": [[22, 28, "location"], [32, 38, "date"]]}
+{"text": "Weather in Boston for the weekend", "labels": [[11, 17, "location"], [22, 33, "date"]]}
+{"text": "Check weather forecast for this evening", "labels": [[28, 40, "date"]]}
+{"text": "What's the weather like in Rome tomorrow", "labels": [[27, 31, "location"], [32, 40, "date"]]}
+{"text": "Weather for Denver this week", "labels": [[12, 18, "location"], [19, 28, "date"]]}
+{"text": "Check the weather in Vancouver", "labels": [[21, 30, "location"]]}
+{"text": "What's next Thursday's weather", "labels": [[7, 21, "date"]]}
+{"text": "Weather forecast for Austin tonight", "labels": [[21, 27, "location"], [28, 35, "date"]]}
+{"text": "Check weather in Philadelphia next month", "labels": [[17, 29, "location"], [30, 40, "date"]]}
+{"text": "What's the weather in Nashville this morning", "labels": [[22, 31, "location"], [32, 44, "date"]]}
+{"text": "Weather for Las Vegas next Saturday", "labels": [[12, 21, "location"], [22, 35, "date"]]}
+{"text": "Check the weather forecast for Atlanta", "labels": [[35, 42, "location"]]}
+{"text": "What's the weather going to be in Phoenix", "labels": [[34, 41, "location"]]}
+{"text": "Weather in Portland for next Friday", "labels": [[11, 19, "location"], [24, 35, "date"]]}
+{"text": "Check weather forecast for New Orleans", "labels": [[27, 38, "location"]]}
+{"text": "What's the weather in Houston this Sunday", "labels": [[22, 29, "location"], [30, 41, "date"]]}
+{"text": "Weather for Minneapolis tomorrow morning", "labels": [[12, 23, "location"], [24, 40, "date"]]}
+{"text": "Check today's weather in San Diego", "labels": [[6, 11, "date"], [22, 31, "location"]]}
